@@ -1,0 +1,51 @@
+td {
+  text-align: center;
+}
+tr {
+  text-align: center;
+}
+
+body {background-color:#f4f8fb;}
+
+.footer {
+ background-color:#f4f8fb ;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align:center;
+  }
+  
+ .pitch {
+  text-align:center;
+}
+
+.pitch2 {
+  text-align:center;
+}
+
+.asdf {
+  padding: 2%;
+}
+
+.header {
+  font-size:30px;
+}
+  
+h1{
+text-align: center;
+padding: 1%;
+}
+
+h4{
+text-align: center;
+padding: 1%;
+}
+p{
+text-align: center;
+}
+.kartta{
+text-align: center;	
+}
+.container{
+  padding: 2%;
+}
